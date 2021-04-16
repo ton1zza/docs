@@ -17,7 +17,8 @@ title: Commands
 - **`!join`** - Summons the bot to the voice channel you are in.
     - **Aliases:** `summon`
 ---
-- **`!play`** - Plays a song with the given name or url. [More Info](/play_song)
+- **`!p
+- `** - Plays a song with the given name or url. [More Info](/play_song)
     - **Usage:** `!play <link/query>`
     - **Alias:** `p`
 ---
@@ -25,7 +26,8 @@ title: Commands
     - **Usage:** `!playtop <link/query>`
     - **Aliases:** `pt`, `ptop`
 ---
-- **`!playskip`** - Skips the current song and plays the song you requested.
+- **`!k
+- `** - Skips the current song and plays the song you requested.
     - **Usage:** `!playskip <link/query>`
     - **Aliases:** `ps`, `pskip`, `playnow`, `pn`
 ---
@@ -77,7 +79,8 @@ title: Commands
     - **Other Usage:** `!lyrics <song name>` - Gets the lyrics of the mentioned song.
     - **Aliases:** `l`, `ly`
 ---
-- **`!disconnect`** - Disconnects the bot from the voice channel it is in.
+- **`!dis
+- `** - Disconnects the bot from the voice channel it is in.
     - **Aliases:** `dc`, `leave`, `dis`
 ---
 
